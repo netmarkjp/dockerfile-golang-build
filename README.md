@@ -9,3 +9,5 @@ useful for CI
 - [goimports](golang.org/x/tools/cmd/goimports)
 - [golint](github.com/golang/lint/golint)
 - [gox](github.com/mitchellh/gox)
+- [goverage](github.com/haya14busa/goverage)
+- [delve](github.com/derekparker/delve)
